@@ -10,7 +10,7 @@ Original file is located at
 import random
 import string
 
-# Length of the password
+# Prompting user to choose their desired length
 length = int(input('Choose a length: '))
 
 # Combine letters and digits
